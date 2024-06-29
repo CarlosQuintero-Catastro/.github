@@ -3,5 +3,5 @@
   "description": "My workflow for Visual Studio",
   "iconName": "example-icon",
   "categories": [ "Mycategory" ],
-  "filePatterns": [ "MySolution3\\.sln" ]
+  "filePatterns": [ ".*" ]
 }
