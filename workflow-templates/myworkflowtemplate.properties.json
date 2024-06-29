@@ -1,6 +1,5 @@
 {
   "name": "My workflow3 for VS",
   "description": "My workflow for Visual Studio",
-  "iconName": "example-icon",
   "categories": [ "C#" ]
 }
