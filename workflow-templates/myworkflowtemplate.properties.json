@@ -1,6 +1,6 @@
 {
-  "name": "My workflow for VS",
-  "description": "My workflow for Visual Studio",
+  "name": "My workflow2 for VS",
+  "description": "My workflow2 for Visual Studio",
   "iconName": "example-icon",
   "categories": [ "Mycategory" ],
   "filePatterns": [ "xxx" ]
