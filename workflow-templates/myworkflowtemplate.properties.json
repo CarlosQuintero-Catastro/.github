@@ -1,0 +1,7 @@
+{
+  "name": "My workflow for VS",
+  "description": "My workflow for Visual Studio",
+  "iconName": "example-icon",
+  "categories": [ "Mycategory" ],
+  "filePatterns": [ ".*\\.sln^" ]
+}
